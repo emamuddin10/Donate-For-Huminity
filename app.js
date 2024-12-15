@@ -118,3 +118,4 @@ donateButtons.forEach((button) => {
   button.addEventListener("click", () => handleDonation(button));
 
 });
+// Alhamdulillah 
